@@ -1,0 +1,8 @@
+net\javaguides\springboot\repository\EmployeeRepositoryIT.class
+net\javaguides\springboot\SpringBootTestingApplicationTests.class
+net\javaguides\springboot\repository\EmployeeRepositoryTests.class
+net\javaguides\springboot\service\EmployeeServiceTests.class
+net\javaguides\springboot\integration\EmployeeControllerITests.class
+net\javaguides\springboot\integration\AbstractContainerBaseTest.class
+net\javaguides\springboot\integration\EmployeeControllerIT.class
+net\javaguides\springboot\controller\EmployeeControllerTests.class
